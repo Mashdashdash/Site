@@ -1,0 +1,214 @@
+/* * {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "bernhard-gothic-urw", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    padding-left: 6vh;
+    padding-right: 5vh;
+    border-radius: 10%;
+}
+
+body {
+    
+    font-size: 16px;
+    background: #ffbc85;
+    color: #1F1F1F;
+} */
+
+/* h1 {
+    font-family: "bernhard-gothic-urw", sans-serif;
+    text-decoration: none;
+    color: #1F1F1F;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: "bernhard-gothic-urw", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+/* h1 a:visited {
+    color: #1F1F1F !important;
+} */ 
+/* 
+section.parent {
+    width: 100%;
+    min-height: 30vh;
+    height: auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: left;
+    align-items: center;
+    
+}
+
+
+h4 {
+    font-family: "bernhard-gothic-urw", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+  
+
+
+section.weekly_exercise {
+    padding-top: 30px; 
+    padding-bottom: 10px; 
+}
+
+#button {
+    padding-top: 80px;
+} */
+/* 
+#rcorners1 {
+    width: 220px;
+    height: 220px; 
+    background: #008080;
+    border-radius: 25px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    padding: 30px;
+  }
+
+
+  .container {
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+  } */
+/* 
+  .images {
+    width:40vh;
+}
+
+#beforeAfterText {
+    text-align: center;
+    font-size: 72px;
+}
+
+h5 {
+    font-size: 40px;
+    font-family: "bernhard-gothic-urw", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+button {
+    background-color: #008080;
+    color: white;
+    text-align: center;
+    margin: auto;
+    
+}
+
+.button {
+    display: inline-block;
+  } */
+
+
+  body {
+    background-color: #018182;
+    font-family: 'W95FA', sans-serif;
+    font-size: 16px;
+    color: #1F1F1F;
+    
+    
+}
+
+h1 {
+    font-family: 'W95FA', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    padding: 10px;
+    border: 2px solid #000000;
+    background: white;
+    color: #000000;
+    text-align: left;
+}
+
+h2, h3, h4, h5 {
+    font-family: 'W95FA', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    padding: 10px;
+    border: 2px solid #000000;
+    background: white;
+    color: #000000;
+    text-align: left;
+}
+
+
+
+h5 {
+    font-size: 15px;
+}
+
+#rcorners1 {
+    width: 220px;
+    height: 220px; 
+    background: #00b140;
+    border-radius: 0;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    padding: 30px;
+    border: 2px solid #000000;
+}
+
+/* button {
+    background-color: #00b140;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #000000;
+} */
+
+button { /* Copyright (c) 2019 Themesberg */
+    position: relative;
+    font-family: 'W95FA', sans-serif;
+    transition: all 0.2s ease;
+    letter-spacing: 0.025em; 
+    font-size: 0.8rem;
+    border-radius: 0.125rem;
+    padding: .6rem 2rem;
+    max-height: 37px;
+}
+
+.parent a {
+    text-decoration: none;
+}
+
+.window {
+    background-color: gray;
+    border: 2px solid #000000;
+    padding: 20px;
+}
+
+.button_exercise {
+    border: 1px solid red;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
