@@ -1,0 +1,99 @@
+/* a reset */
+a, a:hover, a:active, a:visited {
+  color: black;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Mark Pro', sans-serif;
+}
+
+body {
+  font-family: 'Mark Pro', sans-serif;
+  font-size: 16px;
+  background: #DEE1E5;
+  color: black;
+  /* padding: 1.5em 2.5em; */
+}
+
+h1 {
+  font-family: "glodok", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2 {
+  font-family: "glodok", sans-serif;
+  font-size: 25px;
+  padding-bottom: 15px;
+  font-size: 35px;
+  padding-left: 100px;
+  padding-top: 25px;
+}
+
+h3 {
+  font-size: 28px;
+  padding-left: 4em;
+  color: black;
+
+}
+
+p {
+  padding: 10px;
+  padding-left: 9em;
+  padding-right: 9em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  text-decoration: none;
+  flex-grow:1;
+  margin: 1em 2% 1em;
+  height: 2;
+  border-radius: 25px;
+  background: #EBB844;
+}
+
+
+nav a:link {
+  padding: 10px 20px;
+  text-decoration: none;
+  flex-grow:1;
+  text-decoration: none;
+}
+
+nav a:hover {
+  padding: 10px 20px;
+  text-decoration: none;
+  flex-grow:1;
+  text-decoration: underline;
+}
+
+.images {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.images img {
+  max-width: 100%;
+  min-width: 60%;
+  width: 600px;
+  border: 2px solid black;
+}
+
+.images figure {
+  margin: 10px;
+}
+
+.themes {
+  padding: 1em;
+  background: #000;
+  min-height: 80vh;
+}
