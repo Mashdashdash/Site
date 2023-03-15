@@ -3,4 +3,5 @@ function changeText() {
   text.innerHTML = "Wow epic!!";
 }
 
- 
+
+document.body.style.cursor = 'pointer';
